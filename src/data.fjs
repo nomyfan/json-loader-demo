@@ -1,0 +1,7 @@
+{
+  "name": "json-loader",
+  "author": "nomyfan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
